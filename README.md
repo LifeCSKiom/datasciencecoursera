@@ -1,1 +1,1 @@
-# Data Science Series Coursera
+# Data Science Coursera
